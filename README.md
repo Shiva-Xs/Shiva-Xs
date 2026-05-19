@@ -29,7 +29,7 @@ Spring AI · Flyway · Bucket4j · Binance WebSocket · JWT · Docker
 
 **Writes about** what breaks in production and why
 
-→ [Medium](https://medium.com/@shivax) · [LinkedIn](https://linkedin.com/in/shivateja-janjirala) · shivateja.janjirala@gmail.com
+→ [Medium]([https://medium.com/@shivax](https://medium.com/@shivateja.janjirala)) · [LinkedIn](https://linkedin.com/in/shivateja-janjirala) · shivateja.janjirala@gmail.com
 
 ---
 
