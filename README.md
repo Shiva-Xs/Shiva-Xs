@@ -1,16 +1,36 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Shiva-Xs/Shiva-Xs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Shivateja Janjirala
 
-Here are some ideas to get you started:
+**Backend Engineer · Java 21 · Spring Boot 3 · Real-Time Systems**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+Two production systems live right now:
+
+**TriggerX** — Real-time crypto alert engine on Binance WebSocket streams.
+Event-driven price matching. Atomic concurrency guards. NLP alert parsing via Spring AI.
+Zero polling. Zero API cost.
+→ [triggerx.in](https://triggerx.in) · [Source](https://github.com/Shiva-Xs/triggerx-backend)
+
+**Shrinkr** — No-login URL shortener engineered for the redirect path.
+Redis cache-aside. Zero per-click DB writes. Bucket4j rate limiting. SSRF protection.
+→ [app.shrinkr.in](https://app.shrinkr.in) · [Source](https://github.com/Shiva-Xs/shrinkr-backend)
+
+---
+
+**Stack**
+Java 21 · Spring Boot 3.3 · PostgreSQL · Redis · Azure App Service ·
+Spring AI · Flyway · Bucket4j · Binance WebSocket · JWT · Docker
+
+**Open to** SDE-1 / SDE-2 at product companies — Hyderabad or remote
+
+**Writes about** what breaks in production and why
+
+→ [Medium](https://medium.com/@shivax) · [LinkedIn](https://linkedin.com/in/shivateja-janjirala) · shivateja.janjirala@gmail.com
+
+---
+
+*Precision over noise.*
